@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&gclid
+
+Sitemap: https://example.com/sitemap.xml
+Host: https://example.com
